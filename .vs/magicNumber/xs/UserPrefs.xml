@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4966A2D4-49DC-4BB5-9F46-DA96CD7727E9}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <AuthorInfo Name="ibrahimdans" Email="ibrahima.dansoko@outlook.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.ItemProperties.magicNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="nombre_magique/Program.cs">
+    <Files>
+      <File FileName="nombre_magique/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="magicNumber" expanded="True" selected="True">
+            <Node name="magicNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

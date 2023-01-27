@@ -1,0 +1,15 @@
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/bin/Debug/net7.0/nombre_magique
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/bin/Debug/net7.0/nombre_magique.deps.json
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/bin/Debug/net7.0/nombre_magique.runtimeconfig.json
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/bin/Debug/net7.0/nombre_magique.dll
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/bin/Debug/net7.0/nombre_magique.pdb
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.csproj.AssemblyReference.cache
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.AssemblyInfoInputs.cache
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.AssemblyInfo.cs
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.csproj.CoreCompileInputs.cache
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/nombre_magique.dll
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/refint/nombre_magique.dll
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/nombre_magique.pdb
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/magicNumber.genruntimeconfig.cache
+/Users/admin/Developer/cours/C#/magicNumber/nombre_magique/obj/Debug/net7.0/ref/nombre_magique.dll
